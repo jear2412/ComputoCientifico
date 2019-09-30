@@ -32,6 +32,9 @@ Note que el algoritmo guarda solo la parte L^T sobre la matriz A.
 Encuentra la factorizacion QR incompleta de una matriz A de orden mxn. Q es una matriz de vectores ortogonales y R es una matriz triangular superior. Aqui estamos suponiendo que A es de rango completo. Notemos que guarda la matriz Q sobre A, pues son de la misma dimension. La funcion retorna R.
 
 
+*5)Gershgorin.py*
+
+Funcion que dibuja los circulos de Gershgorin que estiman el valor de los eigenvalores de una matriz A.
 
   
 
