@@ -1,5 +1,5 @@
 # Computo-Cientifico-
-Programas en Python de Computo Científico. Se incluirán algoritmos de metodos numéricos y de simulation estocástica; así como experimentos. 
+Programas en Python de Computo Científico. Se incluirán algoritmos de metodos numéricos y de simulación estocástica; así como experimentos. 
 
 
 *Descripción breve*
