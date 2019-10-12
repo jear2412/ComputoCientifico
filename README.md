@@ -37,7 +37,8 @@ Encuentra la factorizacion QR incompleta de una matriz A de orden mxn. Q es una 
 Funcion que dibuja los circulos de Gershgorin que estiman el valor de los eigenvalores de una matriz A.
 
   
+*5)ARSgit.py*
 
-
+Derivative free adaptive rejection sampling. Se incluye documentacion y ejemplos dentro del codigo. 
 
    
