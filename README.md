@@ -1,4 +1,5 @@
 # Computo-Cientifico-
+
 Programas en Python de Computo Científico. Se incluirán algoritmos de metodos numéricos y de simulación estocástica; así como experimentos. 
 
 
@@ -24,20 +25,21 @@ Dada una matriz A simetrica definida positiva (i.e x'Ax>0 para todo x) encuentra
   LL^t=b
 Luego se aplica backward y forward substitution.  
 
-Note que el algoritmo guarda solo la parte L^T sobre la matriz A.
+El algoritmo guarda solo la parte L^T sobre la matriz A.
 
 
 *4) QR.py*
 
-Encuentra la factorizacion QR incompleta de una matriz A de orden mxn. Q es una matriz de vectores ortogonales y R es una matriz triangular superior. Aqui estamos suponiendo que A es de rango completo. Notemos que guarda la matriz Q sobre A, pues son de la misma dimension. La funcion retorna R.
+Encuentra la factorizacion QR incompleta de una matriz A de orden mxn. Q es una matriz de vectores ortogonales y R es una matriz triangular superior. Suponemos que A es de rango completo. Notese que guarda la matriz Q sobre A, pues son de la misma dimension. La funcion retorna R.
 
 
 *5)Gershgorin.py*
 
-Funcion que dibuja los circulos de Gershgorin que estiman el valor de los eigenvalores de una matriz A.
+Funcion que dibuja los circulos de Gershgorin que estiman el valor de los eigenvalores de una matriz A. Ver Biswa Natha (2013)
 
   
 *6)ARSgit.py*
+
 Se incluye documentacion y codigo de Derivative Free Adaptive Rejection Sampling. Gilks 1992
 Derivative free adaptive rejection sampling. Se incluye documentacion y ejemplos dentro del codigo. 
 
