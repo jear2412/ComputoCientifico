@@ -44,3 +44,10 @@ Se incluye documentacion y codigo de Derivative Free Adaptive Rejection Sampling
 Derivative free adaptive rejection sampling. Se incluye documentacion y ejemplos dentro del codigo. 
 
    
+*7) t-walk 
+
+Se incluye el muestreador MCMC t-walk por Christen y Fox (2010). Ver https://www.cimat.mx/~jac/twalk/
+
+
+Christen, J. A. and Fox, C. (2010). “A general purpose sampling algorithm for continuous distributions (the t-walk).”Bayesian Analisis, 4(2): 263–282.
+   
